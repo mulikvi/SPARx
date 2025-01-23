@@ -1,24 +1,22 @@
-<b>Sponsors</b><br><br>
+<b>Sponsors:</b><br>
 SPARx Cal: https://sites.uci.edu/sparxcal/<br>
 Dr. Tirtha Banerjee, Dr. Janine Baijnath-Rodino, Shu Li - Department of Civil and Environmental Engineering, UCI
  
-<b>Current git repositories:</b><br><br>
+<b>Current git repositories:</b><br>
 Burn-client (hosts webpage) - https://github.com/mulikvi/burn-client<br>
 Burn-window (hosts backend window calculations) - https://github.com/mulikvi/burn-window<br>
 Burn-Server (hosts database files from SPARx team) - https://github.com/mulikvi/burn-server<br>
 
 
-<b>Fire Map Dashboard</b> 
-
+<b>Fire Map Dashboard:</b><br>
 AWS link to view map: http://fire-map-dashboard.s3-website-us-west-1.amazonaws.com/
 
-<b>Browsers Tested On:</b>
-
+<b>Browsers Tested On:</b><br>
 ● 	Microsoft Edge<br>
 ● 	Google Chrome<br>
 ● 	Firefox: Caching problem with images not changing when generating burn window raster
 
-<b>Current State of Project</b>
+<b>Current State of Project:</b><br>
 <ul>
  <li>Can sort fires (prescribed, wildfires, unknown, etc) by using filters</li>
 <li>Plot fires</li>
